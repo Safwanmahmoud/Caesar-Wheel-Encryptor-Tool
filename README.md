@@ -15,7 +15,7 @@ imagine you have the 26 letters of english put in circuilar way, and the same le
 the picture below will give you a better intuition about the idea of working.
 <br />
 <br />
- ![machine diagram](https://github.com/Safwanmahmoud/cccc/blob/main/wiringdiagram.png)
+ ![machine diagram](https://github.com/Safwanmahmoud/Caesar-Wheel-Encryptor-Tool/blob/main/caesar%20wheel.jpg)
 <br />
 <br />
 <br />
