@@ -26,4 +26,4 @@ The UI takes both your message and the number of turns, and encrypt/decrypt your
 It also visualize the two wheels, so you can see which letter faces which.
 <br />
 <br />
-![machine diagram](https://github.com/Safwanmahmoud/cccc/blob/main/wiringdiagram.png)
+![machine diagram](https://github.com/Safwanmahmoud/Caesar-Wheel-Encryptor-Tool/blob/main/GUI%20look.PNG)
